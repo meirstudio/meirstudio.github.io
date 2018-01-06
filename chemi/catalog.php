@@ -45,7 +45,7 @@
                 <div class="row">
                   <div class="col-12 col-md-12 col-lg-12 ml-auto mr-auto">
                     <nav class="navbar navbar-expand-md navbar-light bg-default" style="background-color: #0047b8">
-                      <a class="navbar-brand" href="index.html"><p><span>Х</span>им<span>П</span>ром.kz</p></a>
+                      <a class="navbar-brand" href="index.php"><p><span>Х</span>им<span>П</span>ром.kz</p></a>
                       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                       </button>
@@ -53,13 +53,13 @@
                       <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav mr-auto">
                           <li class="nav-item">
-                            <a class="nav-link" href="index.html" style="color: #fff">ГЛАВНАЯ <span class="sr-only">(current)</span></a>
+                            <a class="nav-link" href="index.php" style="color: #fff">ГЛАВНАЯ <span class="sr-only">(current)</span></a>
                           </li>
-                          <li class="nav-item active">
-                            <a class="nav-link" href="about.html" style="color: #fff">О КОМПАНИИ</a>
+                          <li class="nav-item">
+                            <a class="nav-link" href="about.php" style="color: #fff">О КОМПАНИИ</a>
                           </li>
-                          <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="catalog.html" style="color: #fff;" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                          <li class="nav-item dropdown active">
+                            <a class="nav-link dropdown-toggle" href="catalog.php" style="color: #fff;" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                               КАТАЛОГ
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -73,8 +73,8 @@
                               <div class="dropdown-divider"></div>
                             </div>
                           </li>
-                          <li class="nav-item">
-                            <a class="nav-link" href="contact.html" style="color: #fff">КОНТАКТЫ</a>
+                          <li class="nav-item active">
+                            <a class="nav-link" href="contact.php" style="color: #fff">КОНТАКТЫ</a>
                           </li>
                         </ul>
                       </div>
@@ -98,7 +98,7 @@
                         <input type="text" placeholder="Поиск">
                         <button type="submit" class="btn btn-default"><img src="img/search.png" alt=""></button>
                       </form>
-                      <p class="h3" style="border-bottom: 2px solid silver">О компании</p>
+                      <p class="h3" style="border-bottom: 2px solid silver">Каталог товаров</p>
                       <p class="h3"><b>Каталог</b></p>
                       <ul>
                         <li><a href="#">Химическая продукция</a></li>
@@ -115,40 +115,43 @@
                   <div class="col-12 col-md-6">
                     <div class="comtainer-fluid">
                       <div class="main-content">
-                        
+                        <div class="goods-block">
                           <div class="row">
-                            <div class="col-12">
+                            <div class="col-11 col-md-12 col-lg-12 ml-auto mr-auto">
+                              <div class="top-text">
+                                <p class="h3">Товары и услуги</p><br>
+                              </div>
                               <div class="container-fluid">
-                                <div class="about-block">
-                                  <div class="row">
-                                    <div class="col-11 col-md-12 col-lg-12 ml-auto mr-auto">
-                                      <div class="top-text">
-                                        <p class="h3">О компании</p><br>
-                                      </div>
-                                      <div class="pre-text">
-                                        <p style="border-bottom: 2px dotted black;"><b>Краткое описание компании</b></p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde quas saepe fugit, consequatur, eos at aut accusamus esse ducimus et! Quia ducimus tenetur blanditiis natus, quidem vel, reiciendis laudantium ipsa culpa aperiam vitae impedit temporibus cupiditate, quae nulla animi pariatur?</p>
-                                      </div>
-                                      <div class="full-text">
-                                        <p style="border-bottom: 2px dotted black;"><b>Полное описание компании</b></p>
-                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus, nam beatae quae. Error, necessitatibus officia. Ratione temporibus, veniam culpa magnam tenetur sequi, eum iure nobis fugit consectetur. Explicabo, quasi, blanditiis. A at minima quam aperiam, eligendi nihil quas officia nulla facilis, adipisci, laboriosam deleniti, ducimus eaque. Repudiandae architecto ipsa commodi, rerum nihil velit eum tempore non aspernatur voluptate. Explicabo sequi similique sint, tenetur repudiandae commodi libero tempore ex cum, eum autem neque ab, facilis accusamus non dignissimos voluptate aliquid quia? Dolorum quidem quam accusamus libero necessitatibus aliquam exercitationem earum dignissimos ducimus tempora, quaerat veniam, nam rerum ad unde impedit aperiam reiciendis iusto numquam obcaecati, quisquam. Fuga ullam ad sequi dolore earum aspernatur minus nesciunt vitae velit fugit eius quod adipisci tempora recusandae culpa, odio impedit totam beatae debitis et similique consectetur! Cumque excepturi possimus eligendi inventore odio nam repudiandae suscipit magnam tempora, fugiat quisquam dolorum minima, totam iusto quis illo sed et iste provident voluptatibus autem molestias eius animi! Aliquid veniam aut temporibus dolores nobis minus modi nam tenetur sed accusamus quaerat soluta voluptas illum enim repellendus suscipit magnam rem accusantium, odio facilis ratione labore autem placeat, recusandae! Reiciendis velit sint aliquid dolorum porro tempore magnam recusandae sed molestias iusto.
-                                        <br><br>
-                                        <p style="border-bottom: 2px dotted black;"><b>Наши преимущества</b></p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde quas saepe fugit, consequatur, eos at aut accusamus esse ducimus et! Quia ducimus tenetur blanditiis natus, quidem vel, reiciendis laudantium ipsa culpa aperiam vitae impedit temporibus cupiditate, quae nulla animi pariatur?</p>
-                                        <br>
-                                        <p style="border-bottom: 2px dotted black;"><b>Общее сведения</b></p>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde quas saepe fugit, consequatur, eos at aut accusamus esse ducimus et! Quia ducimus tenetur blanditiis natus, quidem vel, reiciendis laudantium ipsa culpa aperiam vitae impedit temporibus cupiditate, quae nulla animi pariatur?</p>
-                                      </div>
-                                      </div>
-                                    </div>
+                                <div class="row">
+                                  <div class="col-6">
+                                    <ul>
+                                      <li><a href="#" target="_self">Органические Растворители </a></li>
+                                      <li><a href="#" target="_self">Гидроокиси </a></li>
+                                      <li><a href="#" target="_self">Кислоты </a></li>
+                                      <li><a href="#" target="_self">Органические соли </a></li>
+                                      <li><a href="#" target="_self">Неорганические соли </a></li>
+                                      <li><a href="#" target="_self">Оксиды </a></li>
+                                      
+                                    </ul>
                                   </div>
+                                  <div class="col-6">
+                                    <ul>
+                                      <li><a href="#" target="_self">Металлы </a></li>
+                                      <li><a href="#" target="_self">Элементы </a></li>
+                                      <li><a href="#" target="_self">Химические товары </a></li>
+                                      <li><a href="#" target="_self">Электролиты </a></li>
+                                      <li><a href="#" target="_self">Товары без груп </a></li>
+                                    </ul>
+                                  </div>
+                                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis eaque reprehenderit blanditiis eum excepturi voluptatum illo, cum laborum accusantium quo autem hic, quos ratione laudantium aperiam optio exercitationem. Sint, repellat!
                                 </div>
                               </div>
                             </div>
+                          </div>
                         </div>
                       </div>
                     </div>
-                  
+                  </div>
                   <!-- right-col -->
                   <div class="col-12 col-md-3">
                     <div class="rightcol">
@@ -163,7 +166,7 @@
                         <a href="#" style="background-color: #ffc96e;">НАПИСАТЬ НАМ</a><br>
                         <img src="img/phone.png" alt=""> 
                         <span class="ph">8707-774-74-71</span>
-                        <p>Наш адрес:  <select name="city" id="city">
+                        <p>Наш адрес:<select name="city" id="city">
                           <option value="1">г.Уральск, ул.Абулхайр хана, 159 офис 52</option>
                         </select></p>
                         <p><b>Время работы:</b> пн-пт 9:00-17:00, <b>без перерыва</b></p>

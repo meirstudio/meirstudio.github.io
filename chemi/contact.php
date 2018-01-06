@@ -1,4 +1,4 @@
-<!doctype html>
+phpctype html>
 <html lang="ru">
 <head>
   <!-- Required meta tags -->
@@ -45,7 +45,7 @@
                 <div class="row">
                   <div class="col-12 col-md-12 col-lg-12 ml-auto mr-auto">
                     <nav class="navbar navbar-expand-md navbar-light bg-default" style="background-color: #0047b8">
-                      <a class="navbar-brand" href="index.html"><p><span>Х</span>им<span>П</span>ром.kz</p></a>
+                      <a class="navbar-brand" href="index.php"><p><span>Х</span>им<span>П</span>ром.kz</p></a>
                       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                       </button>
@@ -53,13 +53,13 @@
                       <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav mr-auto">
                           <li class="nav-item">
-                            <a class="nav-link" href="index.html" style="color: #fff">ГЛАВНАЯ <span class="sr-only">(current)</span></a>
+                            <a class="nav-link" href="index.php" style="color: #fff">ГЛАВНАЯ <span class="sr-only">(current)</span></a>
                           </li>
                           <li class="nav-item">
-                            <a class="nav-link" href="about.html" style="color: #fff">О КОМПАНИИ</a>
+                            <a class="nav-link" href="about.php" style="color: #fff">О КОМПАНИИ</a>
                           </li>
                           <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="catalog.html" style="color: #fff;" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <a class="nav-link dropdown-toggle" href="catalog.php" style="color: #fff;" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                               КАТАЛОГ
                             </a>
                             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -74,7 +74,7 @@
                             </div>
                           </li>
                           <li class="nav-item active">
-                            <a class="nav-link" href="contact.html" style="color: #fff">КОНТАКТЫ</a>
+                            <a class="nav-link" href="contact.php" style="color: #fff">КОНТАКТЫ</a>
                           </li>
                         </ul>
                       </div>
