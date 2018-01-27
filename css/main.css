@@ -41,7 +41,6 @@ html, body{
 
 	.top-block{
 		background: url(../img/bg-top-block.gif) repeat;
-		padding-bottom: 250px;
 	}
 
 	nav{
@@ -128,7 +127,7 @@ html, body{
 		color: #fff;
 		padding: 10px;
 		border-radius: 4px;
-		margin-bottom: 100px;
+		margin-bottom: 300px;
 	}
 
 	.greeting-text button:hover{
