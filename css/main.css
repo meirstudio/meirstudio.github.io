@@ -24,6 +24,9 @@ html, body{
 	font-size: 15px;
 }
 
+p.hui{
+	font-size: 10px;
+}
 
 /* tablet*/ 
 @media screen and (max-width:799px){
