@@ -17,10 +17,6 @@ a:hover{
 	transition: all 1s ease;
 }
 
-.sss{
-	margin-top: 70px;
-}
-
 html, body{
 	width: 100%;
 	background-color: #b7bcbf;
@@ -28,9 +24,7 @@ html, body{
 	font-size: 15px;
 }
 
-.greeting-text{
-	margin-bottom: 20px;
-}
+
 /* tablet*/ 
 @media screen and (max-width:799px){
 	
@@ -127,7 +121,7 @@ html, body{
 		color: #fff;
 		padding: 10px;
 		border-radius: 4px;
-		margin-bottom: 300px;
+		margin-bottom: 50px;
 	}
 
 	.greeting-text button:hover{
@@ -167,7 +161,7 @@ html, body{
 
 	.my-work{
 		background-color: #fff;
-		margin-top: -90px;
+		margin-top: -60px;
 		padding: 10px 5px;
 		margin-bottom: 60px;
 	}
@@ -175,19 +169,19 @@ html, body{
 
 	.about{
 		background-color: #fff;
-		margin-top: -90px;
+		margin-top: -60px;
 		padding: 10px 5px;
 	}
 
 	.sites{
 		background-color: #fff;
-		margin-top: -90px;
+		margin-top: -60px;
 		padding: 10px 5px;
 	}
 
 	.contact{
 		background-color: #fff;
-		margin-top: -90px;
+		margin-top: -60px;
 		padding: 10px 5px;
 	}
 
