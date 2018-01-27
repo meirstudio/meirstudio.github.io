@@ -256,6 +256,7 @@ p.hui{
 
 	.top-block{
 		background: url(../img/bg-top-block.gif) repeat;
+		margin-bottom: 40px;
 	}
 
 	nav{
