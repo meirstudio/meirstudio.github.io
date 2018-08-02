@@ -1227,7 +1227,7 @@ p {
 
     .desc-comp-offer h2,
     .desc-comp-offer>.heading-border-light {
-
+        margin-left: 0px;
     }
 
     .desc-comp-offer-cont {
