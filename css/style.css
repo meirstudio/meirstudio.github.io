@@ -4,7 +4,9 @@
 
 .miwrapper{
     max-width: 1100px;
-    
+    width: 1100px;
+    display: block;
+    margin: 0 auto;
 }
 
 
