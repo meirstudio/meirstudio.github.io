@@ -9,7 +9,7 @@
 html,
 body {
     height: 100%;
-    background-color: red;
+    background-color: #e4e4e8;
 }
 
 body {
@@ -54,7 +54,7 @@ p {
     }
 
     header .topmenu {
-        background: #f0f0f0;
+        background: #b6eaff;
         border-top: solid 1px #f0f0f0;
         border-bottom: solid 1px #f0f0f0;
     }
