@@ -242,7 +242,7 @@ p {
     }
 
     .navbar-nav>li>a:hover,
-    .navbar-nav>li>a:active {
+    .navbar-nav>li>a:factive {
         color: #2196f3!important;
     }
 
@@ -404,9 +404,9 @@ p {
             border-bottom: 1px solid #ddd;
         }
 
-        .navbar-nav>li.active,
+        .navbar-nav>li.factive,
         .navbar-nav>li:hover,
-        .navbar-nav>li:active {
+        .navbar-nav>li:factive {
             border-bottom: 2px solid #ddd;
             background: #f0f0f0;
         }
