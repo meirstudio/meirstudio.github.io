@@ -404,7 +404,7 @@ p {
             border-bottom: 1px solid #ddd;
         }
 
-        .navbar-nav>li.factive,
+        .navbar-nav li.factive,
         .navbar-nav>li:hover{
             border-bottom: 2px solid #ddd;
             background: #f0f0f0;
