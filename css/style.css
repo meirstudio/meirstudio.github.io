@@ -2,11 +2,6 @@
     margin-left: 5px;
 }
 
-.active{
-    background-color: #f0f0f0;
-    border-bottom: 3px solid #2196f3;
-}
-
 @import url('https://fonts.googleapis.com/css?family=Hind:400,600');
 
 /* General CSS */
@@ -410,8 +405,7 @@ p {
         }
 
         .navbar-nav>li.active,
-        .navbar-nav>li:hover,
-        .navbar-nav>li:active {
+        .navbar-nav>li:hover{
             border-bottom: 2px solid #ddd;
             background: #f0f0f0;
         }
