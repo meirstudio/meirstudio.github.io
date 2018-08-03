@@ -405,7 +405,8 @@ p {
         }
 
         .navbar-nav>li.active,
-        .navbar-nav>li:hover{
+        .navbar-nav>li:hover,
+        .navbar-nav>li:active {
             border-bottom: 2px solid #ddd;
             background: #f0f0f0;
         }
