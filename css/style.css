@@ -2,10 +2,11 @@
     margin-left: 5px;
 }
 
-.miwrapper{
-    
+@media (min-width: 767px) and (max-width: 1023px) {
+    .service-item{
+        min-height: 696px;
+    }
 }
-
 
 @import url('https://fonts.googleapis.com/css?family=Hind:400,600');
 
@@ -1655,6 +1656,8 @@ p {
             font-size: 16px;
             text-transform: uppercase;
         }
+
+
     }
 
 
