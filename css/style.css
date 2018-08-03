@@ -4,11 +4,7 @@
 
 .active{
     background-color: #f0f0f0;
-}
-
-.mia{
-    color: #2196f3;
-    border-bottom: 1px solid #2196f3;
+    border-bottom: 3px solid #2196f3;
 }
 
 @import url('https://fonts.googleapis.com/css?family=Hind:400,600');
